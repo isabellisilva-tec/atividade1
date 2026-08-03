@@ -1,5 +1,5 @@
 ﻿using System;
-class Program
+class Ex1064
 {
     static void Main()
     {
