@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Runtime.Serialization;
 class Program
 {
     static void Main()
